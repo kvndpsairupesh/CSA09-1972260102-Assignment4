@@ -3,7 +3,7 @@
 
 **Student Name:** K. V. N. D. P. Sai Rupesh  
 **Register Number:** 1972260102  
-**Course:** Programming in Java (CSA09)  
+**Course:** Programming in Java (CSA0923)  
 **Course Outcome:** CO4
 
 ### Problem
