@@ -1,10 +1,10 @@
 # Assignment 4 – Task 1
 ## GUI Design Review
 
-**Student Name:** Koduri Ramabrahmam  
+**Student Name:** K.V.N.D.P.SAI RUPESH
 **Register Number:** 1972260102  
-**Course:** Programming in Java (CSA09)  
-**Course Outcome:** CO4
+**Course:** Programming in Java (CSA0923)  
+**Course Outcome:** ASSIGNMENT-4
 
 ### Files
 - Task1_Report.pdf – Analysis and design answers.
